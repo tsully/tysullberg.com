@@ -1,5 +1,7 @@
 # Ty Sullberg
 
+<img src="/headshot.jpeg" width="200" alt="Headshot">
+
 Hi! I build tools to humans find connection, autonomy, and purpose.
 
 I've lived many lives - software engineer, management consultant, founder, community organizer, sangha member. My problem solving approach attempts to integrate and transcend these perspectives.
@@ -8,20 +10,22 @@ I've lived many lives - software engineer, management consultant, founder, commu
 [X](https://twitter.com/tysullberg) |
 [Calendly](https://cal.com/tyler-sullberg) |
 [Substack](https://tysullberg.substack.com/) |
-[Resume]() |
+[Resume](https://drive.google.com/file/d/1PsjCqfL7mSNBzbtM3CpdU2MrZNCeHpKr/view?usp=sharing) |
 [Email](mailto:tysullberg@gmail.com)
 
 ## Coordination technology
 
-I'm co-founder of Ize, a platform for collective attention and action. You can think of it as "Zapier for collective intelligence". I built Ize as a solo-founder and engineer from Jan 2024 through March 2025. 
+I'm co-founder of Ize, a platform for collective attention and action. You can think of it as "Zapier for collective intelligence". I built Ize as a solo-founder and engineer from Jan 2024 through March 2025.
+
 - You can check out a demo [here](https://vimeo.com/1056860875)
 - Read the postmortem [here](https://tysullberg.substack.com/p/collective-attention-as-a-service).
 
-I'm currently working on a side-project for AI multi-agent deliberation and coordination. It's essentially Ize adapted for a purely agentic context. DM me if you're interested in collaboration :)  
+I'm currently working on a side-project for AI multi-agent deliberation and coordination. It's essentially Ize adapted for a purely agentic context. DM me if you're interested in collaboration :)
 
 Prior to Ize, I built coordination tools for blockchain. I was VP of Product and Protocol for [4K](https://4k.com/), a protocol for on-chain assets. 4K was a purely decentralized on-chain alternative to the legal system for enforcing physical property rights.
 
 I'm a contributor at several collective intelligence research groups including [Metagov](https://metagov.org/), [DAOStar](https://daostar.org/), [Active Inference Institute](https://www.activeinference.institute/), and [Sensemaking Scenius](https://kpaxle.mmm.page/scenius).
+
 ## Community organizing
 
 The most effective coordination technologies are human culture and relationships. I've helped build several community organizations:
@@ -29,11 +33,13 @@ The most effective coordination technologies are human culture and relationships
 - **Cofounder of The Conscious Club**: Creating community via meditation + rave
 - **Cofounder of Open Sangha Collective**: A grassroots organization removing capitalism from Western Buddhist sangha.
 - **Mutual aid**: I'm Currently working on building a Mutual Aid Network here in Portland.
+
 ## Dhamma / meditation
 
 Actually, I take that back - the most effective coordination technology is mind. I write about the relationship between dhamma and collective intelligence in my [Substack](https://tysullberg.substack.com/).
 
 Meditation is a big part of my life. I started with Mahasi-style Vipassana back in 2018 before moving to TWIM. My practices these days is oriented around Mahamudra.
+
 ## Publications
 
 - [Collective Attention as a Service: A Postmortem of Ize 👀](https://tysullberg.substack.com/p/collective-attention-as-a-service): Exploration of what motivated Ize's design, why it didn't work, and what the next generation of coordination tools can learn from the Ize experiment.
